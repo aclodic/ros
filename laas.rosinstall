@@ -42,7 +42,7 @@
 # use the Fuerte/Electric version for the Romeo package.
 # to use Groovy's one, use the master branch.
 - git:
-    uri: git://github.com/laas/romeo.git
+    uri: git://github.com/francois-keith/romeo.git
     local-name: stacks/romeo
     version: master
 - git:
